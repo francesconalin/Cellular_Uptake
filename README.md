@@ -7,4 +7,4 @@ The experiments can be triggered with drug or medium injection within the chambe
 2) Activation of the LED signal for a specified period
 3) Turn off the LED and flushing the reagents within the chamber.
 
-The software is cited in [1]
+
