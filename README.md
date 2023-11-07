@@ -7,4 +7,5 @@ The experiments can be triggered with drug or medium injection within the chambe
 2) Activation of the LED signal for a specified period
 3) Turn off the LED and flushing the reagents within the chamber.
 
+The simplified version allows to control only two valves (QUAKE, waste), the LED, and includes only one button for the automated switch.
 
